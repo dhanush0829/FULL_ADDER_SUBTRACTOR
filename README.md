@@ -54,6 +54,13 @@ Write the detailed procedure here
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+<img width="1920" height="1080" alt="fulladderex3" src="https://github.com/user-attachments/assets/e853c930-6120-453e-9b80-0bb9bccf1865" />
+<img width="1920" height="1080" alt="fulladderexp3" src="https://github.com/user-attachments/assets/55996cf4-d440-4631-8fd4-ee7425b168d5" />
+<img width="1920" height="1080" alt="fulllsub3" src="https://github.com/user-attachments/assets/89aa81c8-aaea-4e9a-a547-0373c474ebfe" />
+<img width="1920" height="1080" alt="fullsub3" src="https://github.com/user-attachments/assets/ec507e8f-b3a5-4dab-8b2e-f0857a446e2e" />
+
+
+
 
 
 
